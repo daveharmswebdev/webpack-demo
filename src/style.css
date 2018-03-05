@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('./Roboto-Regular.ttf') format('ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: white;
+    background-color: #000080;
+    height: 300px;
+    width: 300px;
+    padding: 1rem 1rem;
+    font-family: 'Roboto-Regular';
+}
+
+.angular-image {
+    height: 80px;
+}
